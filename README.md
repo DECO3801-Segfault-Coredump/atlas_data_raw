@@ -25,5 +25,5 @@ trying to extract out of DECO students actually complies with the licences below
     - CC Attribution-NonCommercial
     - https://sketchfab.com/3d-models/queensland-rail-emu-low-poly-47f3a898ef624ec59bc29b0a3f6c23c1
 - Ferry model
-    - TODO
-    - TODO
+    - CC Attribution
+    - https://sketchfab.com/3d-models/tow-boat-86939cf48b914951aa3c6ed2bc8bb446
